@@ -9,12 +9,6 @@ import java.net.InetAddress;
 *  Connects to a UDP Server
 *  Receives a line of input from the keyboard and sends it to the server
 *  Receives a response from the server and displays it.
-*
-*  @author: Michael Fahy
-*     email: fahy@chapman.edu
-*     date: 2/4/2019
-*  @version: 3.1
-*
 */
 
 
