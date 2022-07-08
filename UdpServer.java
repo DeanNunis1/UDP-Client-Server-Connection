@@ -7,11 +7,6 @@ import java.net.InetAddress;
 *  Listens on a UDP port
 *  Receives a line of input from a UDP client
 *  Returns an upper case version of the line to the client.
-*
-*  @author: Michael Fahy
-*     email: fahy@chapman.edu
-*     date: 2/4/2018
-*  @version: 3.0
 */
 
 class UdpServer {
