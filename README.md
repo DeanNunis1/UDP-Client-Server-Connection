@@ -7,10 +7,10 @@ This project contains a simple implementation of a UDP (User Datagram Protocol) 
 
 Clone the repository to your local machine:
 
-\`\`\`bash
+```bash
 git clone https://github.com/<your_username>/UDP-Client-Server_Connection.git
 cd UDP-Client-Server_Connection
-\`\`\`
+```
 
 Replace `<your_username>` with your GitHub username.
 
@@ -18,25 +18,25 @@ Replace `<your_username>` with your GitHub username.
 
 First, compile the Java files using the `javac` command:
 
-\`\`\`bash
+```bash
 javac MyUdpClient.java UdpClient.java UdpServer.java
-\`\`\`
+```
 
 Then, start the server:
 
-\`\`\`bash
+```bash
 java UdpServer
-\`\`\`
+```
 
 Now, you can start the client:
 
-\`\`\`bash
+```bash
 java MyUdpClient
-\`\`\`
+```
 or
-\`\`\`bash
+```bash
 java UdpClient
-\`\`\`
+```
 
 For `MyUdpClient.java`, type a sentence or type 'Goodbye' to exit. The server will respond with the capitalized sentence.
 
