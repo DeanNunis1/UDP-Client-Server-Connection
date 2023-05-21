@@ -52,8 +52,3 @@ For `UdpClient.java`, type a sentence to receive a capitalized version from the 
 
 * Java
 
-## Author
-
-* **Dean Nunis**
-\`\`\`
-
