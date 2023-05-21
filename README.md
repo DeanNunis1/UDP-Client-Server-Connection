@@ -1,4 +1,3 @@
-\`\`\`markdown
 # UDP Client-Server Connection
 
 This project contains a simple implementation of a UDP (User Datagram Protocol) client-server connection. The client sends a sentence to the server, the server transforms this sentence to uppercase, and sends it back to the client. This process is looped until 'Goodbye' is typed in the `MyUdpClient.java` client. The project consists of three main components: `MyUdpClient.java`, `UdpClient.java`, and `UdpServer.java`.
